@@ -23,4 +23,14 @@ Tambien en mi canal de youtube por si les gustan mis videos.
 | Maestria | No aplica |
 | Doctorado | No aplica |
 
+## Logros
+
+##### Estos son los diferentes logros que he alcnzado a lo largo de mi vida.
+
+* Escuela - Llevar casi 9 años en el TEC y no terminar 
+* Videojuegos - Llegar a Retador en League Of Legends
+* Anime - Ver Dragon Ball todo un día sin parar.
+* Corporales - Correr 100000 km/h
+
+
 
