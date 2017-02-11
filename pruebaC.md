@@ -12,4 +12,15 @@ Tambien en mi canal de youtube por si les gustan mis videos.
 
 [![Solid](http://www.live-pure.org/wp-content/uploads/2013/08/youtube-icon-200x200.png)](https://www.youtube.com/channel/UCio1tYuI06mqHadkYQAN6Rg)
 
+## Educación
+
+| Nivel de estudio | Escuela | 
+| ------ | ------ |
+| Primaria | Capitan Miguel De La Madrid |  
+| Secundaria | Secundaria No. 56 |
+| Preparatorio | Cetis No. 18 |
+| Universidad | Tecnologico de Mexicali |
+| Maestria | No aplica |
+| Doctorado | No aplica |
+
 
